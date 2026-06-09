@@ -26,8 +26,12 @@ Atualmente busco oportunidades para desenvolver experiência prática em:
 - Inteligência Artificial
 - Sistemas Embarcados
   
-- ## 📫 Contato
+## 📫 Contato
 <div align="center">
-   <a href="www.linkedin.com/in/gabriel-boaventura-a7a99b280" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "gabriel.cthun@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gabriel-boaventura-a7a99b280" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   <a href="mailto:gabriel.cthun@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
 </div>
