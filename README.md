@@ -1,6 +1,6 @@
 # <h1 align="center" >Estudante de Engenheira de Computação<img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="90px"> </h1>
 
- ## 👨‍💻 Sobre mim
+ ## <div align="center">👨‍💻 Sobre mim</div>
 
 #### *Olá! Meu nome é **Gabriel Mendes Boaventura**, tenho **24 anos** e atualmente curso o **8º semestre de Engenharia de Computação no UniCEUB**.*
 
